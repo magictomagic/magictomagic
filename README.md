@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <td valign="top" width="54%">
   <div style="justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=magictomagic&theme=highcontrast&show_icons=true&count_private=true">
-  <img align="right" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magictomagic&layout=compact&hide=html,TeX&langs_count=10">
+  <img  height="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magictomagic&layout=compact&hide=html,TeX&langs_count=10">
     </div>
 </td>
 </tr>
@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ---
-#### Activity
-
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity--> 
+<!--END_SECTION:activity-->
+</details>
