@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 </table>
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
