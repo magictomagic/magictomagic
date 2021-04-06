@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 </table>
 
+<!--START_SECTION:activity--> 
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Mysql笔记](https://magictomagic.github.io//2021/04/01/mysql%E7%AC%94%E8%AE%B0/)
