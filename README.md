@@ -26,25 +26,25 @@ Here are some ideas to get you started:
   
 <tr>  
   <td valign="top" width="54%">
-[![MagicAnchor](https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=MagicAnchor&show_owner=true)](https://github.com/magictomagic/MagicAnchor)
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=MagicAnchor&show_owner=true">
   </td>
 </tr>
   
 <tr>  
   <td valign="top" width="54%">
-[![coSS](https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=coSS&show_owner=true)](https://github.com/magictomagic/coSS)
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=coSS&show_owner=true">
   </td>
 </tr>
 
 <tr>  
   <td valign="top" width="54%">
-[![learn](https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=learn&show_owner=true)](https://github.com/magictomagic/learn)
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=learn&show_owner=true">
   </td>
 </tr>
   
 <tr>  
   <td valign="top" width="54%">
-[![WebSimplifyHUB](https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=WebSimplifyHUB&show_owner=true)](https://github.com/magictomagic/WebSimplifyHUB)
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=WebSimplifyHUB&show_owner=true">
   </td>
 </tr>
 
