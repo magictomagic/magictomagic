@@ -56,7 +56,11 @@ Here are some ideas to get you started:
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Mysql笔记](https://magictomagic.github.io//2021/04/01/mysql%E7%AC%94%E8%AE%B0/)
+- [Qemu Dlink 模拟](https://magictomagic.github.io//2021/03/30/qemu-Dlink-%E6%A8%A1%E6%8B%9F/)
+- [Vscode Extension 开发笔记](https://magictomagic.github.io//2021/03/29/vscode-extension-%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/)
+- [React native 修炼](https://magictomagic.github.io//2021/03/21/react-native-%E4%BF%AE%E7%82%BC/)
+- [React学习笔记](https://magictomagic.github.io//2021/03/20/react%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
