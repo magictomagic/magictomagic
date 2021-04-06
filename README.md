@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -15,13 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="right">
-
-
+<div style="display:flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=magictomagic&theme=highcontrast&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magictomagic&layout=compact&hide=html,TeX&langs_count=10">
 </div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=magictomagic&theme=highcontrast&show_icons=true&count_private=true">
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=magictomagic&layout=compact&hide=html,TeX&langs_count=10)
+
 [![MagicAnchor](https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=MagicAnchor&show_owner=true)](https://github.com/magictomagic/MagicAnchor)
 [![coSS](https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=coSS&show_owner=true)](https://github.com/magictomagic/coSS)
 [![learn](https://github-readme-stats.vercel.app/api/pin/?username=magictomagic&repo=learn&show_owner=true)](https://github.com/magictomagic/learn)
