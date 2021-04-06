@@ -36,6 +36,12 @@ Here are some ideas to get you started:
 </table>
 
 <!--START_SECTION:activity--> 
+1. 🗣 Commented on [#65](https://github.com/cnblogs/cnblogs-hardening/issues/65) in [cnblogs/cnblogs-hardening](https://github.com/cnblogs/cnblogs-hardening)
+2. 🗣 Commented on [#65](https://github.com/cnblogs/cnblogs-hardening/issues/65) in [cnblogs/cnblogs-hardening](https://github.com/cnblogs/cnblogs-hardening)
+3. 🗣 Commented on [#315](https://github.com/lebedov/scikit-cuda/issues/315) in [lebedov/scikit-cuda](https://github.com/lebedov/scikit-cuda)
+4. ❗️ Opened issue [#315](https://github.com/lebedov/scikit-cuda/issues/315) in [lebedov/scikit-cuda](https://github.com/lebedov/scikit-cuda)
+5. 🗣 Commented on [#214](https://github.com/bndr/pipreqs/issues/214) in [bndr/pipreqs](https://github.com/bndr/pipreqs)
+<!--END_SECTION:activity-->
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
