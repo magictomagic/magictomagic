@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity--> 
-1. ❗️ Opened issue [#77](https://github.com/simo8102/88-AutoSignMachine/issues/77) in [simo8102/88-AutoSignMachine](https://github.com/simo8102/88-AutoSignMachine)
-2. 🗣 Commented on [#65](https://github.com/cnblogs/cnblogs-hardening/issues/65) in [cnblogs/cnblogs-hardening](https://github.com/cnblogs/cnblogs-hardening)
+1. ❗️ Opened issue [#57](https://github.com/kdrag0n/safetynet-fix/issues/57) in [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
+2. ❗️ Opened issue [#77](https://github.com/simo8102/88-AutoSignMachine/issues/77) in [simo8102/88-AutoSignMachine](https://github.com/simo8102/88-AutoSignMachine)
 3. 🗣 Commented on [#65](https://github.com/cnblogs/cnblogs-hardening/issues/65) in [cnblogs/cnblogs-hardening](https://github.com/cnblogs/cnblogs-hardening)
 4. 🗣 Commented on [#315](https://github.com/lebedov/scikit-cuda/issues/315) in [lebedov/scikit-cuda](https://github.com/lebedov/scikit-cuda)
 5. ❗️ Opened issue [#315](https://github.com/lebedov/scikit-cuda/issues/315) in [lebedov/scikit-cuda](https://github.com/lebedov/scikit-cuda)
