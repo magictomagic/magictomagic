@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity--> 
-1. 🗣 Commented on [#1705](https://github.com/BrowserSync/browser-sync/issues/1705) in [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync)
-2. ❗️ Opened issue [#57](https://github.com/kdrag0n/safetynet-fix/issues/57) in [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
-3. ❗️ Opened issue [#77](https://github.com/simo8102/88-AutoSignMachine/issues/77) in [simo8102/88-AutoSignMachine](https://github.com/simo8102/88-AutoSignMachine)
-4. 🗣 Commented on [#315](https://github.com/lebedov/scikit-cuda/issues/315) in [lebedov/scikit-cuda](https://github.com/lebedov/scikit-cuda)
+1. 🗣 Commented on [#854](https://github.com/crosstool-ng/crosstool-ng/issues/854) in [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng)
+2. 🗣 Commented on [#1705](https://github.com/BrowserSync/browser-sync/issues/1705) in [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync)
+3. ❗️ Opened issue [#57](https://github.com/kdrag0n/safetynet-fix/issues/57) in [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
+4. ❗️ Opened issue [#77](https://github.com/simo8102/88-AutoSignMachine/issues/77) in [simo8102/88-AutoSignMachine](https://github.com/simo8102/88-AutoSignMachine)
 5. ❗️ Opened issue [#315](https://github.com/lebedov/scikit-cuda/issues/315) in [lebedov/scikit-cuda](https://github.com/lebedov/scikit-cuda)
 <!--END_SECTION:activity-->
 </details>
