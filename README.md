@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Qemu 交叉编译](https://magictomagic.github.io//2021/07/01/qemu-%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/)
-- [玩机笔记](https://magictomagic.github.io//2021/06/09/%E7%8E%A9%E6%9C%BA%E7%AC%94%E8%AE%B0/)
-- [Poco Root 总结](https://magictomagic.github.io//2021/06/02/poco-root-%E6%80%BB%E7%BB%93/)
-- [创业思维](https://magictomagic.github.io//2021/05/12/%E5%88%9B%E4%B8%9A%E6%80%9D%E7%BB%B4/)
-- [拜读王垠](https://magictomagic.github.io//2021/04/29/%E6%8B%9C%E8%AF%BB%E7%8E%8B%E5%9E%A0/)
+- [QEMU cross compiling](https://iron.magictomagic.com/post/qemu-cross-compiling/)
+- [毕设 流水账](https://iron.magictomagic.com/post/%E6%AF%95%E8%AE%BE-%E6%B5%81%E6%B0%B4%E8%B4%A6/)
+- [王垠博客阅读](https://iron.magictomagic.com/post/%E6%8B%9C%E8%AF%BB%E7%8E%8B%E5%9E%A0/)
+- [机器学习工具 算法框架](https://iron.magictomagic.com/post/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7/)
+- [qemu Dlink 模拟](https://iron.magictomagic.com/post/qemu-dlink-%E6%A8%A1%E6%8B%9F/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
