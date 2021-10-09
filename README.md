@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity--> 
-1. ❗️ Opened issue [#4316](https://github.com/Chocobozzz/PeerTube/issues/4316) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
-2. 🎉 Merged PR [#2](https://github.com/magictomagic/backup/pull/2) in [magictomagic/backup](https://github.com/magictomagic/backup)
-3. 💪 Opened PR [#2](https://github.com/magictomagic/backup/pull/2) in [magictomagic/backup](https://github.com/magictomagic/backup)
-4. 🗣 Commented on [#1](https://github.com/magictomagic/backup/issues/1) in [magictomagic/backup](https://github.com/magictomagic/backup)
-5. 🎉 Merged PR [#1](https://github.com/magictomagic/backup/pull/1) in [magictomagic/backup](https://github.com/magictomagic/backup)
+1. 🗣 Commented on [#697](https://github.com/YTVanced/VancedManager/issues/697) in [YTVanced/VancedManager](https://github.com/YTVanced/VancedManager)
+2. ❗️ Opened issue [#4316](https://github.com/Chocobozzz/PeerTube/issues/4316) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
+3. 🎉 Merged PR [#2](https://github.com/magictomagic/backup/pull/2) in [magictomagic/backup](https://github.com/magictomagic/backup)
+4. 💪 Opened PR [#2](https://github.com/magictomagic/backup/pull/2) in [magictomagic/backup](https://github.com/magictomagic/backup)
+5. 🗣 Commented on [#1](https://github.com/magictomagic/backup/issues/1) in [magictomagic/backup](https://github.com/magictomagic/backup)
 <!--END_SECTION:activity-->
 </details>
